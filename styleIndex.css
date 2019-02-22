@@ -1,0 +1,23 @@
+.plain{
+    background-color:  lightsteelblue;
+}
+
+.error {
+    color:RED;
+}
+.header{
+    background: beige;
+}
+
+body{
+    background-color: lightsteelblue;
+}
+
+.container{
+    background: beige;
+}
+
+tbody{
+    background-color: pink;
+}
+
