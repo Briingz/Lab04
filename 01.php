@@ -269,7 +269,7 @@ session_start();
             isset($_SESSION['gender'])  &&  isset($_SESSION['phone']) &&
             isset($_SESSION['runtype']) &&  isset($_SESSION['ticketprice'])  &&
             isset($_SESSION['clothsize']) && isset($_SESSION['deliveryType'])  )){ 
-            echo "../Lab04/02.php";}
+            echo "02.php";}
           else{
             echo htmlspecialchars($_SERVER["PHP_SELF"]);} 
           ?>">
